@@ -1,0 +1,7 @@
+st1=str(input('st1='))
+st2=str(input('st2='))
+st3=str(input('st3='))
+s=st1.find(st2)
+print('Vi tri xuat hien st2:',s)
+kq=st1.repalce(st2,st3)
+print('Xau ket qua:',kq)

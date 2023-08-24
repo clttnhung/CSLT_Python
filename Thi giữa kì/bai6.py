@@ -1,0 +1,10 @@
+#dao nguoc chuoi
+a=input()
+b=input()
+c=input()
+a=''.join(list(reversed(a)))
+b=''.join(list(reversed(b)))
+c=''.join(list(reversed(c)))
+print(a)
+print(b)
+print(c)
